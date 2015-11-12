@@ -3,7 +3,7 @@ title: MgCoders Blog
 email: info@mgcoders.uy
 description: > # this means to ignore newlines until "baseurl:"
   Mejor mgcoders.uy.
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://mgcoders.github.io" # the base hostname & protocol for your site
 twitter_username: mgcoders
 github_username:  mgcoders
